@@ -1,0 +1,11 @@
+Tor(R)anger 
+
+v1.1.0-beta 1 [7.23.2013]
+1. updated obfsproxy to new version
+2. updated torrc file to support obfsproxy protocal 3
+
+v1.0.1 [7.20.2013]
+1. updated tor git version and torrc file
+
+v1.0.0 [7.14.2013]
+included tor git version and obfsproxy
