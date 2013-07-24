@@ -1,5 +1,11 @@
 Tor(R)anger 
 
+v1.1.0-beta 2 [7.24.2013]
+1. updated tor and other utilities.
+
+v1.0.2 [7.24.2013]
+1. updated tor and other utilities.
+
 v1.1.0-beta 1 [7.23.2013]
 1. updated obfsproxy to new version
 2. updated torrc file to support obfsproxy protocal 3
