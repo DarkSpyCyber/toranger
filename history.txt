@@ -1,5 +1,8 @@
 Tor(R)anger 
 
+v1.0.4 and v1.1.1 [7.31.2013]
+1. tor updated.
+
 v1.1.0  [7.29.2013]
 1. tor git relative stable version.
 

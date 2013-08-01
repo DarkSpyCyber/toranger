@@ -29,7 +29,6 @@ bridge obfs2 128.31.0.34:1051
 
 #obfs below
 
-
   bridge obfs2 54.225.59.50:52176  
   bridge obfs3 54.225.59.50:40872 
   bridge obfs2 23.22.47.90:52176  
@@ -41,12 +40,20 @@ bridge obfs2 128.31.0.34:1051
   bridge obfs3 176.198.4.121:57988  
   bridge obfs3 88.102.83.205:9993
 
+  bridge obfs2 54.216.99.108:52176  
+  bridge obfs2 54.234.253.71:52176  
+  bridge obfs3 54.216.99.108:40872  
+  bridge obfs3 54.234.253.71:55533
+
 Bridge websocket 0.0.1.0:1
 
 ClientTransportPlugin obfs2,obfs3 exec ./App/obfsproxy --managed
 ClientTransportPlugin websocket exec flashproxy-client --register :0 :9000
 
 #ipv4 below
+  bridge 54.216.99.108:443
+  bridge 69.162.168.184:443
+  bridge 54.234.253.71:443
  bridge 176.198.4.121:9001
   bridge 80.171.68.221:9100
   bridge 24.11.27.159:443
@@ -54,7 +61,6 @@ ClientTransportPlugin websocket exec flashproxy-client --register :0 :9000
   bridge 31.7.61.118:443
   bridge 124.209.253.176:443
    bridge 69.91.86.24:9001
-
 
 #ipv6 below
  bridge [2a00:7000:3:0:216:3eff:fe9f:34d7]:443
