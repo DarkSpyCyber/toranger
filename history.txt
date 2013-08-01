@@ -1,5 +1,10 @@
 Tor(R)anger 
 
+v1.2.0 [8.1.2013]
+1. tor updated. from 8.1.2013 git version.
+2. added telex utility for tor.
+3. updated torrc in Data/tor folder and batch file in root directory.
+
 v1.0.4 and v1.1.1 [7.31.2013]
 1. tor updated.
 
