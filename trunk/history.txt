@@ -1,5 +1,9 @@
 Tor(R)anger 
 
+v1.2.1 [8.8.2013]
+1. 8.7.2013 tor git updated.
+2. torrc updated.
+
 v1.2.0 [8.1.2013]
 1. tor updated. from 8.1.2013 git version.
 2. added telex utility for tor.
