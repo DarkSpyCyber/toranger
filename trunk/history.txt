@@ -1,5 +1,14 @@
 Tor(R)anger 
 
+v1.2.3 [8.28.2013]
+1. tor updated.
+2. torrc updated.
+3. obfsproxy updated.
+
+v1.2.3 [8.24.2013]
+1. tor updated.
+2. torrc updated.
+
 v1.2.2 [8.15.2013]
 1. 8.14.2013 tor git updated.
 
