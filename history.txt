@@ -1,5 +1,12 @@
 Tor(R)anger 
 
+v1.2.5  [8.30.2013]
+1. with new version of obfsproxy.
+2. with new version of flashproxy.
+3. re-arrangement the folder within app.
+4. fixed bug of torrc file.
+5. more stabilized.
+
 v1.2.4-2 [8.30.2013]
 1. obfsproxy fixed.
 2. added http_protocal.bat to listen 8118 port for http protocal.
