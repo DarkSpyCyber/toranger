@@ -1,5 +1,10 @@
 Tor(R)anger 
 
+v1.2.4-2 [8.30.2013]
+1. obfsproxy fixed.
+2. added http_protocal.bat to listen 8118 port for http protocal.
+3. added readme file.
+
 v1.2.4 [8.28.2013]
 1. tor updated.
 2. torrc updated.
