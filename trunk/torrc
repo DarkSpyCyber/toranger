@@ -9,22 +9,15 @@ AvoidDiskWrites 1
 ControlPort 9051
 
 UseBridges 1
-#bridge 127.0.0.1:4444 F580401C7A5EEDD54F2927A1C161E9642D1ADCCC
-#UpdateBridgesFromAuthority 0
+bridge 127.0.0.1:4444 F580401C7A5EEDD54F2927A1C161E9642D1ADCCC
+UpdateBridgesFromAuthority 0
 
 bridge obfs2 38.229.33.18:42401
-bridge obfs2 85.17.20.242:61264
-bridge obfs2 85.214.131.213:1051
 bridge obfs2 86.59.30.35:45605
-bridge obfs2 91.208.34.7:5353
 bridge obfs2 109.105.109.163:53999
 bridge obfs2 109.163.233.195:1051
 bridge obfs2 128.31.0.34:1051
-bridge obfs2 131.215.158.1:29936
-bridge obfs2 173.254.192.38:1051
-bridge obfs2 188.40.20.215:32982
 bridge obfs2 212.112.242.160:49259
-bridge obfs2 213.108.105.129:36609
 bridge obfs2 128.31.0.34:1051
 
 #obfs below
@@ -33,39 +26,58 @@ bridge obfs2 128.31.0.34:1051
   bridge obfs3 54.225.59.50:40872 
   bridge obfs2 23.22.47.90:52176  
   bridge obfs2 5.133.180.176:42367  
-  bridge obfs3 5.133.180.176:35638 
-
-  bridge obfs2 176.198.4.121:51152  
-  bridge obfs2 54.247.52.214:52176  
-  bridge obfs3 176.198.4.121:57988  
-  bridge obfs3 88.102.83.205:9993
 
   bridge obfs2 54.216.99.108:52176  
   bridge obfs2 54.234.253.71:52176  
   bridge obfs3 54.216.99.108:40872  
   bridge obfs3 54.234.253.71:55533
 
+
+  bridge obfs2 54.245.56.229:52176  
+  bridge obfs3 54.245.56.229:40872  
+
+  bridge obfs2 54.244.184.250:52176  
+  bridge obfs3 54.244.184.250:40872  
+  bridge obfs2 107.20.128.203:52176  
+
+  bridge obfs2 54.228.192.19:52176  
+  bridge obfs3 54.228.192.19:40872  
+
 Bridge websocket 0.0.1.0:1
 
-ClientTransportPlugin obfs2,obfs3 exec ./App/obfsproxy --managed
-ClientTransportPlugin websocket exec flashproxy-client --register :0 :9000
+ClientTransportPlugin obfs2,obfs3 exec ./App/obfsproxy.exe --managed
+ClientTransportPlugin websocket exec ./App/flashproxy-client --register :0 :9000
 
 #ipv4 below
-  bridge 54.216.99.108:443
+  bridge 54.228.192.19:443
+  bridge 67.23.241.200:443
+  bridge 203.192.122.148:443
+  
+bridge 54.216.99.108:443
   bridge 69.162.168.184:443
   bridge 54.234.253.71:443
- bridge 176.198.4.121:9001
-  bridge 80.171.68.221:9100
-  bridge 24.11.27.159:443
-  bridge 69.91.86.24:9001
-  bridge 31.7.61.118:443
-  bridge 124.209.253.176:443
-   bridge 69.91.86.24:9001
+  bridge 114.200.0.162:9001
+  bridge 205.185.120.120:443
+  bridge 38.229.1.29:995
+  bridge 31.16.130.68:443
+  bridge 54.244.184.250:443
+   bridge 23.20.88.134:443
+   bridge 107.20.128.203:443
 
+   bridge 23.20.88.134:443
+
+   bridge 54.248.56.107:443
+
+    bridge  83.169.20.139:9001
+     bridge 209.40.196.12:443
+    bridge  188.129.43.0:444
+
+  
 #ipv6 below
- bridge [2a00:7000:3:0:216:3eff:fe9f:34d7]:443
+ Bridge [2a00:7000:3:0:216:3eff:fe9f:34d7]:443
+ Bridge [2001:948:7:2::164]:6001 6FF45834AF97C9BD51882FB9F5C88D363242CB30
 #SSL below
-#HttpsProxy 186.73.239.20:3128
+#HttpsProxy 201.73.245.178:3128
 
 #HttpsProxy 112.216.3.214:6312
 #HttpsProxy 62.162.6.11:3128
