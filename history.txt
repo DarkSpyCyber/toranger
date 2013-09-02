@@ -1,5 +1,11 @@
 Tor(R)anger 
 
+v1.3.0-beta 1 [9.2.2013]
+1. GUI program Ranger v1.0 beta 1 added. now you can use GUI program instead console.
+2. added new torrc config file.
+3. del 2 useless programs.
+4. telex.bat added for a single telex run.
+
 v1.2.5  [8.30.2013]
 1. with new version of obfsproxy.
 2. with new version of flashproxy.
