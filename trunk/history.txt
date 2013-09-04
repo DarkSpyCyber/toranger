@@ -1,5 +1,12 @@
 Tor(R)anger 
 
+v1.3.0-beta 2 , v1.2.6 [9.3.2013]:
+1. new tor added.(for both version)
+2. Ranger added Retry bar, now you can see the progress of retry infomation.
+3. Ranger added more information.
+4. Ranger added select question when you clicked "Clean Cache".
+5. erased useless files.
+
 v1.3.0-beta 1 [9.2.2013]
 1. GUI program Ranger v1.0 beta 1 added. now you can use GUI program instead console.
 2. added new torrc config file.
