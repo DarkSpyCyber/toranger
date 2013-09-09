@@ -1,5 +1,15 @@
 Tor(R)anger 
 
+v1.3.0, v1.2.7 [9.9.2013]:
+for both version:
+1. tor updated.
+2. torrc updated.
+for 1.3.0:
+1. Ranger added Http Switch and make socks5 proxy functions.
+2. loss http protocal batch.
+3. added much more helping informations to Ranger.
+4. changes package format from zip to 7z.
+
 v1.3.0-beta 2 , v1.2.6 [9.3.2013]:
 1. new tor added.(for both version)
 2. Ranger added Retry bar, now you can see the progress of retry infomation.
