@@ -1,5 +1,12 @@
 Tor(R)anger 
 
+v1.3.1 [9.13.2013]:
+1. fixed bug about socks5 process not closed when close Ranger.
+2. fixed bug about get ip address is blank.
+3. now the new 'torrc' file will put in your Toranger folder when you make Socks5 proxy successfully.
+4. torrc fixed.
+5. socks5 server program updated.
+
 v1.3.0, v1.2.7 [9.9.2013]:
 for both version:
 1. tor updated.
