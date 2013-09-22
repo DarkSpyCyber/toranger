@@ -3,7 +3,7 @@ Tor(R)anger
 v1.3.2 [9.22.2013]
 1. full of Tor core code has re-built.
 2. Tor has updated.
-3 added proxy check function.
+3. added proxy check function.
 4. new bridges added.
 5. new geoip updated
 
