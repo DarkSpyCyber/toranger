@@ -1,5 +1,12 @@
 Tor(R)anger 
 
+v1.3.2 [9.22.2013]
+1. full of Tor core code has re-built.
+2. Tor has updated.
+3 added proxy check function.
+4. new bridges added.
+5. new geoip updated
+
 v1.3.1 [9.13.2013]:
 1. fixed bug about socks5 process not closed when close Ranger.
 2. fixed bug about get ip address is blank.
