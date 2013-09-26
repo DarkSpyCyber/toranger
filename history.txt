@@ -1,5 +1,10 @@
 Tor(R)anger 
 
+v1.4.0 Alpha 1 [9.26.2013]
+1. fixed some bugs from 1.3.x version.
+2. added Plugin program and functions.
+3. tor updated.
+
 v1.3.2 [9.22.2013]
 1. full of Tor core code has re-built.
 2. Tor has updated.
