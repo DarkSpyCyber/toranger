@@ -1,5 +1,9 @@
 Tor(R)anger 
 
+v1.3.3 [9.29.2013]
+1. kernel tor updated.
+2. torrc updated.
+
 v1.4.0 Alpha 1 and Beta 1 [9.26.2013]
 1. fixed some bugs from 1.3.x version.
 2. added Plugin program and functions.
