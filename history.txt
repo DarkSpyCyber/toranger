@@ -11,6 +11,7 @@ v1.4.0 beta 2 [10.2.2013]
 8. added Berry "Precise" Plugin, this edition should be precisely in proxy get than berry normal edition.
 9. added Berry "Socks5" plugin.
 10. added plugin manager window (work in progress).
+11. a new internal plugin protocal added.
 
 v1.3.3 [9.29.2013]
 1. kernel tor updated.
