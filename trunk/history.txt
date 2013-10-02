@@ -8,10 +8,9 @@ v1.4.0 beta 2 [10.2.2013]
 5. now you can select which plugin you wish to run.
 6. fixed plugin run mode. you now have to click "Run Plugin" to run.
 7. fixed plugin expansion window algorithm.
-8. new plugin format added.
-9. added Berry "Precise" Plugin, this edition should be precisely in proxy get than berry normal edition.
-10. added Berry "Socks5" plugin.
-11. added plugin manager window (work in progress).
+8. added Berry "Precise" Plugin, this edition should be precisely in proxy get than berry normal edition.
+9. added Berry "Socks5" plugin.
+10. added plugin manager window (work in progress).
 
 v1.3.3 [9.29.2013]
 1. kernel tor updated.
