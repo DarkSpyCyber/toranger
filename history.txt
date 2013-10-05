@@ -1,5 +1,9 @@
 Tor(R)anger 
 
+v1.3.4 [10.5.2013]
+1. tor was replaced to "Official Tor". I'll set "Official Tor" to 1.4.x if "official version" works fine.
+2. fixed torrc.
+
 v1.4.0 beta 2 [10.2.2013]
 1. tor updated.
 2. torrc updated.
