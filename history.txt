@@ -3,8 +3,9 @@ Tor(R)anger
 v1.4.0 prerelease [10.8.2013]
 1. now Ranger can be set proxies and bridges manually.
 2. now Ranger can *superficially* detects the error from torrc and Tor runs.
-3. torrc updated.
-4. the 1.4.0 has two editions, official Tor and Git Tor, please tell me which one is more stable.
+3. tor updated (Git Tor Bundle Version).
+4. torrc updated.
+5. the 1.4.0 has two editions, official Tor and Git Tor, please tell me which one is more stable.
 
 v1.3.4 [10.5.2013]
 1. tor has replaced to "Official Tor". I'll set "Official Tor" to 1.4.x if "official version" works fine.
