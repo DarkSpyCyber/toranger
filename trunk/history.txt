@@ -1,7 +1,23 @@
 Tor(R)anger 
 
+v1.4.0 release [10.11.2013] 
+Ranger Part:
+1. plugin manager window completed. you can add, modify, and delete the plugin what you want.
+2. Set Proxy button changed it's place.
+3. fixed plugin display position.
+4. now you can set plugin program's command line in "command_line.txt" which will be read by Ranger when plugin were going to run. 
+5. added "restore torrc" button in Set Proxy window.
+6. added "Help" button in Set Proxy window.
+7. now you will *maybe* never get "error #2" message.
+Plugin Part:
+1. plugin Berry has been fixed some problems and updated.
+2. now Berry can use the proxy which was fetched before.
+3. now Berry is just a ONE plugin program and distinguish the functions by command line.
+Miscellaneous:
+1. Help documents roughly completed.
+
 v1.4.0 prerelease [10.8.2013]
-1. now Ranger can be set proxies and bridges manually.
+1. now Ranger can set proxies and bridges manually.
 2. now Ranger can *superficially* detects the error from torrc and Tor runs.
 3. tor updated (Git Tor Bundle Version).
 4. torrc updated.
