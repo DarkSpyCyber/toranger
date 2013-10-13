@@ -1,5 +1,9 @@
 Tor(R)anger 
 
+v1.4.0-2 [10.13.2013] 
+1. http protocal switch fix. (polipo problems)
+2. torrc updated.
+
 v1.4.0 release [10.11.2013] 
 Ranger Part:
 1. plugin manager window completed. you can add, modify, and delete the plugin what you want.
