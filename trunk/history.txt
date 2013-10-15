@@ -1,5 +1,9 @@
 Tor(R)anger 
 
+v1.3.5 [10.15.2013]
+1. http protocal switch fix. (polipo problems, same as v1.4.0 issue)
+2. torrc updated.
+
 v1.4.0-2 [10.13.2013] 
 1. http protocal switch fix. (polipo problems)
 2. torrc updated.
