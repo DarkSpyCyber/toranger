@@ -1,5 +1,12 @@
 Tor(R)anger 
 
+v1.4.1 [10.18.2013]
+1. fixed a bug from "Set Proxy".
+2. now "Set Proxy" can automatically determine from torrc file that which radio button ("bridge" or "proxy") should be checked when you click it.
+3. fixed a bug from "Proxy Check" since from v1.3.x.
+4. plugin Berry updated.
+5. torrc updated.
+
 v1.3.5 [10.15.2013]
 1. http protocal switch fix. (polipo problems, same as v1.4.0 issue)
 2. torrc updated.
