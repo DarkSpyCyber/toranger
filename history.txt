@@ -1,7 +1,7 @@
 Tor(R)anger
 
 v1.4.5 [10.25.2013]
-1. (for plugin programmers) added "R_VERSION" to the plugin protocal for require a Ranger.exe version.
+1. (for plugin programmers) added "R_VERSION" to the plugin protocal for require a version of Ranger.exe.
 2. plugin Berry has updated. in same proxy type , Berry can read history from last fetched.
 3. plugin Candie added in. it will fetch the torrc file from toranger google server.
 4. torrc updated.
