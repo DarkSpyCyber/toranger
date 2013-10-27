@@ -1,0 +1,12 @@
+#summary One-sentence summary of this page.
+#labels Featured,Phase-QA,Phase-Support
+
+= Toranger Wiki Page =
+*Q&A list here:*
+  # Support platform ?
+    v1.4.x and higher does not support windows 2000.
+  # When Linux version would be out ?
+    no plan in the near future. you can use "Wine" to simulate.
+  # Why did I get the incorrect files after extract the 7zip package ?
+    to extract v1.4.1 or higher version 7zip package, please make sure that you have 7zip v9.20 or higher installed in your PC. you can download 7zip from: http://www.7-zip.org . you might get incorrect files if you were using WinRAR v4.x or higher to extract the package.
+  
