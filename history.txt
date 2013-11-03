@@ -1,13 +1,13 @@
 Tor(R)anger
 
-v1.5.0 []
+v1.5.0 [not released]
 1. get ip module updated. (older version won't work anymore)
 2. obfsproxy updated. now obfsproxy has support "b64" protocal.
 3. flashproxy updated.
 4. "git tor" updated.
 5. "git tor" instead of "official tor".
 
-v1.4. []
+v1.4.6 [not released]
 1. get ip module updated. (older version won't work anymore)
 
 v1.4.5 [10.25.2013]
