@@ -2,7 +2,7 @@ Tor(R)anger
 
 v1.5.0 [11.5.2013]
 1. get ip module updated. (older version won't work anymore)
-2. obfsproxy updated. now obfsproxy has support "b64" protocal. (b64 was not deployed by OR network yet)
+2. obfsproxy updated. now obfsproxy has support "b64".
 3. flashproxy updated.
 4. torrc updated.
 5. "git tor" updated.
@@ -10,8 +10,9 @@ v1.5.0 [11.5.2013]
 7. the Security tool: "Patrick" has contained.
 8. the Patrick's core: "yoghurt" has contained.
 
-v1.4.6 [not release yet]
+v1.4.6 [11.8.2013]
 1. get ip module updated. (older version won't work anymore)
+2. torrc updated.
 
 v1.4.5 [10.25.2013]
 1. (for plugin programmers) added "R_VERSION" to the plugin protocal for require a version of Ranger.exe.
