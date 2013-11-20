@@ -1,5 +1,11 @@
 Tor(R)anger
 
+v1.5.2 [not release]
+1. flashproxy updated.
+2. fixed bug of "flashproxy" won't be run.(thanks to asjzhd)
+3. help documents updated for 1.5.x
+...
+
 v1.5.1 [11.17.2013]
 1. patrick updated.
 2. git Tor updated.
