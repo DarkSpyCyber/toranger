@@ -1,5 +1,12 @@
 Tor(R)anger
 
+v1.5.3 or v1.6.0 ? [not released]
+1. now make Tor as a tor network service provider.
+2. flashproxy updated.
+3. torrc updated.
+4. other features work in progress...
+...
+
 v1.5.2 [11.22.2013]
 1. flashproxy updated.
 2. git tor updated to "stable" 11.21.2013
