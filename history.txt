@@ -1,11 +1,11 @@
 Tor(R)anger
 
-v1.5.3 or v1.6.0 ? [not released]
-1. now make Tor as a tor network service provider.
-2. flashproxy updated.
-3. torrc updated.
-4. other features work in progress...
-...
+v1.6.0 [12.3.2013]
+1. now Tor can runs as a tor network service provider or bridge provider.
+2. tor updated to "stable" 11.26.2013.
+3. flashproxy updated.
+4. torrc updated.
+5. get ip module updated. older version won't be work anymore.
 
 v1.5.2 [11.22.2013]
 1. flashproxy updated.
