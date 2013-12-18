@@ -4,9 +4,10 @@ v1.6.5 [12.18.2013]
 1. now if Toranger set to "non-client" mode in "Tor As" window, the plugins in Toranger can't be acceptable to run. 
 2. Plugin DNS2SOCKS added. now you can set your DNS in windows to : 127.0.0.1 after Tor done in running.
     to visit DNS2SOCKS website go to : http://sourceforge.net/projects/dns2socks
-3. torrc updated.
-4. Tor updated to Git 12.18.2013
-5. flashproxy to stable version 12.13.2013
+3. fixed some Ranger.exe problems.
+4. torrc updated.
+5. Tor updated to Git 12.18.2013
+6. flashproxy to stable version 12.13.2013
 
 v1.6.0 [12.3.2013]
 1. now Tor can runs as a tor network service provider or bridge provider.
