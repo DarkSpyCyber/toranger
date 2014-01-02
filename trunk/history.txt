@@ -1,5 +1,13 @@
 Tor(R)anger
 
+v1.6.6 [1.2.2014]
+1. kp.exe updated.
+2. Tor has updated to Git stable 12.23.2013.
+3. torrc updated.
+4. plugin Candie updated.
+5. Ranger updated. now fixed some inappropriate text.
+6. Help documents updated.
+
 v1.6.5 [12.18.2013]
 1. now if Toranger set to "non-client" mode in "Tor As" window, the plugins in Toranger can't be acceptable to run. 
 2. Plugin DNS2SOCKS added. now you can set your DNS in windows to : 127.0.0.1 after Tor done in running.
