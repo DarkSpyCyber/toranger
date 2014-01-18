@@ -1,5 +1,10 @@
 Tor(R)anger
 
+v1.6.7 [1.18.2014]
+1. Tor updated. Tor had updated for circumvention the Chinese firewall better than before *currently*.
+2. torrc updated.
+3. flashproxy updated.
+
 v1.6.6 [1.2.2014]
 1. kp.exe updated.
 2. Tor has updated to Git stable 12.23.2013.
