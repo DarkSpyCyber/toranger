@@ -1,5 +1,14 @@
 Tor(R)anger
 
+v1.7.0 [not release yet]
+1. new plugin added.
+2. for Toranger V2, will add a new tool in for experimental in v1.7 or v1.8 series.
+
+v1.6.8 [1.29.2014]
+1. Tor updated.
+2. flashproxy updated.
+3. Torrc updated.
+
 v1.6.7 [1.18.2014]
 1. Tor updated. Tor had updated for circumvention the Chinese firewall better than before *currently*.
 2. torrc updated.
