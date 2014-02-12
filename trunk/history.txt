@@ -5,7 +5,7 @@ v1.7.0 [2.11.2014]
 2. flashproxy updated to Feb/11/2014.
 3. Ranger.exe updated, added "finally" function for plugin program. now Ranger will end a program which raised up by Plugin program.
 4. DNScrypt Plugin added. it was not checked by default because this plugin function is conflict to "DNS2SOCKS", make sure pick either of them to run.
-    (*different: DNS2SOCKS needs Tor connect to network successfully but not for DNScrypt)
+    (*difference: DNS2SOCKS needs Tor connect to network successfully but not for DNScrypt)
 5. Help documents updated.
 
 v1.6.8 [1.29.2014]
