@@ -1,5 +1,11 @@
 Tor(R)anger
 
+v1.7.1 [2.25.2014]
+1. Tor had major update.
+2. flashproxy updated.
+3. Geoip and GeioipV6 upgraded.
+4. now we set DNScrypt to the default plugin. disabled default to DNS2SOCKS.
+
 v1.7.0 [2.11.2014]
 1. Git tor updated to Feb/11/2014. fixed more bugs.
 2. flashproxy updated to Feb/11/2014.
