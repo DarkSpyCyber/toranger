@@ -1,6 +1,15 @@
 Tor(R)anger
 
-v1.7.1 [2.25.2014]
+v1.7.2 [3.20.2014]
+1. Tor updated.
+2. flashproxy updated.
+3. fixed the bug of Ranger with Tor As functions after using berry plugins since v1.6.0.
+4. optimized some Ranger source code.
+5. for Chinese users, you can using "Plugin" -> "berry" series plugins to get proxy before Tor runs. it will get a lot of help. 
+   Tor bridges was not always fresh and works.
+6. for other countries with free network, use "Tor As" be a Bridge server or being "socks 5 server" to help other people.
+
+v1.7.1 [3.04.2014]
 1. Tor had major update.
 2. flashproxy updated.
 3. Geoip and GeioipV6 upgraded.
