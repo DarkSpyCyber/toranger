@@ -1,4 +1,7 @@
 v2 [code name machete].
+alpha 1-2
+1. fixed bug of core/droid/berry functions
+
 alpha 1 built time: 3/21/2014
 1. the organizion strucure of folder was totally different to v1.
 2. logically, V2 never get fail to connect to Tor network, if you get fail, stop and start again.
