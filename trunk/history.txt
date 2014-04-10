@@ -1,5 +1,10 @@
 Tor(R)anger
 
+v1.7.3 [4.10.2014]
+1. Tor updated.
+2. flashproxy updated.
+3. for Chinese users. using "Plugin" -> "berry" series plugins to get proxy before Tor runs.. 
+
 v1.7.2 [3.20.2014]
 1. Tor updated.
 2. flashproxy updated.
