@@ -1,5 +1,8 @@
 Tor(R)anger
 
+v1.7.4 [4.15.2014]
+1. Tor kernel openssl has been updated. no more heartbleed issue.
+
 v1.7.3 [4.10.2014]
 1. Tor updated.
 2. flashproxy updated.
