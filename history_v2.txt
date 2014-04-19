@@ -7,7 +7,7 @@ alpha 1.5: 4/18/2014
 4. Timeout added.
 5. network searching AI updated.
 6. flashproxy updated.
-7. * obfsproxy and flashproxy still no use in this test version.
+7. * obfsproxy and flashproxy still useless in this test version.
 
 alpha 1-2
 1. fixed bug of core/droid/berry functions
