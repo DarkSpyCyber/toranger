@@ -1,5 +1,13 @@
 Tor(R)anger
 
+v1.7.5 [5.15.2014]
+1. Tor has updated.
+2. torrc has updated.
+3. Ranger has updated, you will now rarely to get "Tor is already running" warning when you Click "Run".
+4. flashproxy has updated.
+5. plugin: dnscrypt-proxy has updated.
+6. even using bridges that you ISP still blocks your network to reach to OR, use v2 alpha.
+
 v1.7.4 [4.15.2014]
 1. Tor kernel openssl has been updated. no more heartbleed issue.
 
