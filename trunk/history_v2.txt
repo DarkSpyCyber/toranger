@@ -1,5 +1,13 @@
 v2 [code name machete].
 
+alpha 2: 6/4/2014
+1. Ranger2 has improved of clear the processes of Tor and related programs when click Start or Finish.
+2. new Tor pluggable transports added.
+3. fixed more bugs of Ranger2.
+4. log on off switch added to Ranger2.
+5. Tor pluggable transports now works.
+6. if you get failed to connect to OR network of AI level 3, please try again.
+
 alpha 1.5: 4/18/2014
 1. some invite problems fixed.
 2. Tor updated with openssl issue fixed "heart bleed".
