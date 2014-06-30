@@ -1,5 +1,11 @@
 Tor(R)anger
 
+v1.7.6 [6.30.2014]
+1. Ranger has fixed the bug about clean the Tor processes.
+2. Tor has updated to newest version.
+3. DNScrypt has updated.
+4. *if you can not get reach to OR network, use v2 alpha or use plugin "berry" first before Tor runs.*
+
 v1.7.5 [5.15.2014]
 1. Tor has updated.
 2. torrc has updated.
