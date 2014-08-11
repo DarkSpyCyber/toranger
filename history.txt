@@ -1,5 +1,11 @@
 Tor(R)anger
 
+v1.7.7 [8.11.2014]
+1. Tor updated.
+2. Torrc updated.
+3. flashproxy updated.
+4. geoip and geoip v6 updated.
+
 v1.7.6 [6.30.2014]
 1. Ranger has fixed the bug about clean the Tor processes.
 2. Tor has updated to newest version.
