@@ -1,5 +1,11 @@
 v2 [code name machete].
 
+v2.1
+test 2: 3/16/2015
+1. added mode 0.
+2. fixed some bugs.
+3. Tor updated.
+
 3/14/2015:
 port to GitHub, google code is no longer avaliable.
 
