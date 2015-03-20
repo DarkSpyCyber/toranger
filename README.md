@@ -12,7 +12,7 @@ ok, fine, do not use it for illegal purposes. :)
 *Development branch: v3.0 series.*<br>
 *Activate branch: v2.1 or above series.*<br>
 
-*Mar/16/2015. The Ranger v2.1 Test 2 is out* [https://toranger.googlecode.com/svn/trunk/Toranger_V2.1_test_2.7z v2.1 Test 2](7.6M). MD5 checksum: 7959bfe35ad231cb4fa8e42850e37065. SHA1 checksum: 0b89e5105737466670d33e6065eb6300eec1b7a6. here is the [https://toranger.googlecode.com/svn/trunk/history_v2.txt history of V2]
+*Mar/20/2015. The Ranger v2.1 beta 1 is out* [https://toranger.googlecode.com/svn/trunk/Toranger_V2.1_beta_1.7z v2.1 beta 1](7.6M). MD5 checksum: a7581be71a77bb355ad3af315a2916f4. SHA1 checksum: c294c3939587b49c1030719a993f8a4b3258fba4. here is the [https://toranger.googlecode.com/svn/trunk/history_v2.txt history of V2]
 
 or you can always download the stable Toranger version which released at Aug/11/2014 [https://toranger.googlecode.com/svn/trunk/Toranger_v1.7.7.7z v1.7.7],(13.1M) MD5 checksum: 043020798595f685dafa1d87e4317123. SHA1 checksum: cef7ac90f8290a4bd6b2b252522bdabfa796bd59.
 
