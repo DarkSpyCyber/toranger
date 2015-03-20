@@ -1,6 +1,12 @@
 v2 [code name machete].
 
 v2.1
+beta 1: 3/20/2015
+1. add proxy adding manually function.
+2. more stable and more bug fixed.
+3. tor updated.
+
+v2.1
 test 2: 3/16/2015
 1. added mode 0.
 2. fixed some bugs.
