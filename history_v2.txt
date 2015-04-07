@@ -1,6 +1,13 @@
 v2 [code name machete].
 
 v2.1
+release: 4/6/2015
+1. Tor updated.
+2. component grape updated.
+3. component berry updated. 
+4. fixed bug of mode 1 or mode 2 sometimes can't connect to OR network, I raised possibility of connection success.
+5. added "Run Tor as customize" button, its use for after customized your torrc proxies.(the beta version does not have it)
+
 beta 2: 3/31/2015
 1. added proxy to http.
 2. fixed some bugs.
