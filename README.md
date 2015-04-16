@@ -12,7 +12,10 @@ ok, fine, do not use it for illegal purposes. :)
 *Development branch: v3.0 series.*<br>
 *Activate branch: v2.1 or above series.*<br>
 
-*Apr/07/2015. I am very pleased to announce that The Ranger v2.1 has released* [https://toranger.googlecode.com/svn/trunk/Toranger_V2.1.7z v2.1](6.8M). MD5 checksum: bc5ddc9a38ca16815e637ce5c51a138c. SHA1 checksum: 46b090379c4b34ba8718cf6cc28e8a32d3038b1e. here is the [https://toranger.googlecode.com/svn/trunk/history_v2.txt history of V2]
+*Apr/16/2015. I am very pleased to announce that The Ranger v2.1.1 has released* 
+[https://toranger.googlecode.com/svn/trunk/Toranger_V2.1.1.7z v2.1.1](9.3M). MD5 checksum: e64d26da8d44d950155ae47dcc68cede. SHA1 checksum: ba3720ff3c7625ce5ed0d646b8fd01fe4c848b47. here is the [https://toranger.googlecode.com/svn/trunk/history_v2.txt history of V2]
+
+and you can also download the version 2.1: [https://toranger.googlecode.com/svn/trunk/Toranger_V2.1.7z v2.1](6.8M). MD5 checksum: bc5ddc9a38ca16815e637ce5c51a138c. SHA1 checksum: 46b090379c4b34ba8718cf6cc28e8a32d3038b1e.
 
 or you can always download the stable Toranger version which released at Aug/11/2014 [https://toranger.googlecode.com/svn/trunk/Toranger_v1.7.7.7z v1.7.7],(13.1M) MD5 checksum: 043020798595f685dafa1d87e4317123. SHA1 checksum: cef7ac90f8290a4bd6b2b252522bdabfa796bd59.
 
