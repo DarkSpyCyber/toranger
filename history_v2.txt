@@ -1,5 +1,10 @@
 v2 [code name machete].
 
+V2.1.1:
+release: 4/16/2015
+1. Tor updated.
+2. added bridge new server to mode 0, you now have 4 different servers to switch.
+
 v2.1
 release: 4/6/2015
 1. Tor updated.
