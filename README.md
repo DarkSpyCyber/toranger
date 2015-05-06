@@ -12,8 +12,8 @@ ok, fine, do not use it for illegal purposes. :)
 *Development branch: v3.0 series.*<br>
 *Activate branch: v2.1 or above series.*<br>
 
-*Apr/16/2015. I am very pleased to announce that The Ranger v2.1.1 has released* 
-[https://toranger.googlecode.com/svn/trunk/Toranger_V2.1.1.7z v2.1.1](9.3M). MD5 checksum: e64d26da8d44d950155ae47dcc68cede. SHA1 checksum: ba3720ff3c7625ce5ed0d646b8fd01fe4c848b47. here is the [https://toranger.googlecode.com/svn/trunk/history_v2.txt history of V2]
+*May/06/2015. I am very pleased to announce that The Ranger v2.1.5 has released* 
+[https://toranger.googlecode.com/svn/trunk/Toranger_V2.1.5.7z v2.1.5](9.1M). MD5 checksum: 33da4e62fb1ecc412cefa7c049bc2e96. SHA1 checksum: f98aa29961169bc756b668575e7ec0d6c87be016. here is the [https://toranger.googlecode.com/svn/trunk/history_v2.txt history of V2]
 
 and you can also download the version 2.1: [https://toranger.googlecode.com/svn/trunk/Toranger_V2.1.7z v2.1](6.8M). MD5 checksum: bc5ddc9a38ca16815e637ce5c51a138c. SHA1 checksum: 46b090379c4b34ba8718cf6cc28e8a32d3038b1e.
 

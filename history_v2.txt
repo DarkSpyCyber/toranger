@@ -1,5 +1,12 @@
 v2 [code name machete].
 
+V2.1.5:
+release: 5/6/2015
+1. Tor updated.
+2. added BlueBerry component for Toranger.
+3. fixed Mode 0.
+4. if you can not connect to OR network by Mode 1 or Mode 2, be patient, Stop and retry again.
+
 V2.1.1:
 release: 4/16/2015
 1. Tor updated.
