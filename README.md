@@ -13,7 +13,7 @@ ok, fine, do not use it for illegal purposes. :)
 *Activate branch: v2.1 or above series.*<br>
 
 *May/21/2015 I am pleased to announce that Kemosabe, the new security proxy tool for Toranger V3 (you can use it standalone) has released.*
-*download [https://github.com/DarkSpyCyber/toranger/blob/master/kemosabe_console.7z Kemosabe console version] and [https://github.com/DarkSpyCyber/toranger/blob/master/kemosabe_gui.7z Kemosabe GUI version] from Github (the GUI version needs at least .NET v3.5)*
+*download [https://github.com/DarkSpyCyber/toranger/blob/master/kemosabe_console.7z Kemosabe console version] and [https://github.com/DarkSpyCyber/toranger/blob/master/kemosabe_gui.7z Kemosabe GUI version] from Github (the GUI version needs at least .NET v3.5)* you might get anti-virus report like: Trojan.PWS.Micro.origin to kp.exe of GUI version. thats mistake report, ignoring it, it's a safe file.
 
 *May/06/2015. I am very pleased to announce that The Ranger v2.1.5 has released* 
 [https://toranger.googlecode.com/svn/trunk/Toranger_V2.1.5.7z v2.1.5](9.1M). MD5 checksum: 33da4e62fb1ecc412cefa7c049bc2e96. SHA1 checksum: f98aa29961169bc756b668575e7ec0d6c87be016. here is the [https://toranger.googlecode.com/svn/trunk/history_v2.txt history of V2]
