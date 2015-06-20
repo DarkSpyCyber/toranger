@@ -15,8 +15,9 @@ ok, fine, do not use it for illegal purposes. :)
 *Jun/20/2015 I am pleased to announce that Kemosabe, the new security proxy tool for Toranger V3 (you can use it standalone) has released.*
 *download [https://github.com/DarkSpyCyber/toranger/raw/master/kemosabe_console.7z Kemosabe console version] and [https://github.com/DarkSpyCyber/toranger/raw/master/kemosabe_gui_b.7z Kemosabe GUI version] from Github (the GUI version needs at least .NET v3.5)*
 
-*May/06/2015. I am very pleased to announce that The Ranger v2.1.5 has released* 
-[https://toranger.googlecode.com/svn/trunk/Toranger_V2.1.5.7z v2.1.5](9.1M). MD5 checksum: 33da4e62fb1ecc412cefa7c049bc2e96. SHA1 checksum: f98aa29961169bc756b668575e7ec0d6c87be016. here is the [https://toranger.googlecode.com/svn/trunk/history_v2.txt history of V2]
+*Jun/20/2015. I am very pleased to announce that The Ranger v2.1.6 has released* 
+[https://github.com/DarkSpyCyber/toranger/raw/master/Toranger_V2.1.6.7z v2.1.6](9.3M). MD5 checksum: ffae04b22af005e33826387efc8a3d0a. SHA1 checksum: 8e4d18ec24978ed5386cd23965aaaecb70aad934. here is the [https://toranger.googlecode.com/svn/trunk/history_v2.txt history of V2]
+and you can download [https://github.com/DarkSpyCyber/toranger/raw/master/Toranger_V2.1.6_kemosabe_bundle.7z v2.1.6 with Kemosabe](10.8M). MD5 checksum: 1d902293abe87aeea599cb6426a6eccd. SHA1 checksum: 00fdc94b24b5102c52b31ec166d345a881b402e0.
 
 and you can also download the version 2.1: [https://toranger.googlecode.com/svn/trunk/Toranger_V2.1.7z v2.1](6.8M). MD5 checksum: bc5ddc9a38ca16815e637ce5c51a138c. SHA1 checksum: 46b090379c4b34ba8718cf6cc28e8a32d3038b1e.
 

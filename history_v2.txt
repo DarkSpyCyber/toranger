@@ -1,5 +1,12 @@
 v2 [code name machete].
 
+V2.1.6:
+release: 6/20/2015
+1. Tor updated.
+2. Mode 0 fixed. more safety.
+3. geoip and geoip6 updated.
+4. now bundle version included "kemosabe",  for more information see kemosabe folder.
+
 V2.1.5:
 release: 5/6/2015
 1. Tor updated.
