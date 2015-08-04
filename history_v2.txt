@@ -1,5 +1,10 @@
 v2 [code name machete].
 
+V2.1.7:
+release: 8/04/2015
+1. Tor updated.
+2. fixed some bugs.
+
 V2.1.6:
 release: 6/20/2015
 1. Tor updated.
