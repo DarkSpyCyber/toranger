@@ -1,0 +1,8 @@
+announcement:
+
+kemosabe v2 will be release soon.
+it has linux and windows both version.
+with SSL encryption and server client intergrated.
+
+Jun.19.2016
+K.J.Gerty
