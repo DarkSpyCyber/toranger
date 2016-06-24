@@ -7,9 +7,9 @@ this tor bundle can helps you to circumvent the censorship of gov.
 
 ok, fine, do not use it for illegal purposes. :)
 
-## Kemosabe Project in Toranger <br>
-### what is kemosabe, kemosabe is a socks5 proxy tool which makes you through the censorship. the version 2.0 is in develop, it will be release soon.<br>
-### the version of Kemosabe 1.1 was a buggy version, please wait v2.0 release or you can use 1.1 just for "glimpse".<br>
+### Kemosabe Project in Toranger <br>
+#### what is kemosabe, kemosabe is a socks5 proxy tool which makes you through the censorship. <br>
+**v2.0 released. Jun.24.2016**
 
 ### now the Original Toranger readme below since 2015:<br>
 *Development Plan:*<br>
