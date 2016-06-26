@@ -9,6 +9,9 @@ ok, fine, do not use it for illegal purposes. :)
 
 ### Kemosabe Project in Toranger <br>
 #### what is kemosabe, kemosabe is a socks5 proxy tool which makes you through the censorship. <br>
+
+#### for windows users, u can running kemosabe windows version in "kemosabe_gui_d.7z" GUI shell, just using kemosabe files which in "bin" directory to overwrite kemosabe_gui_d's files.<br>
+
 **v2.0 released. Jun.24.2016**
 
 ### now the Original Toranger readme below since 2015:<br>
