@@ -1,5 +1,19 @@
 v2 [code name machete].
 
+v2.1.8:
+release: 7/26/2016
+1. Tor updated.
+2. fixed BlueBerry component.
+3. remove Berry component.
+4. added Pitaya component.
+5. geoip and gepip6 updated.
+6. Mode 0 updated. now you can see which server you use, 
+   looks like: Mode 0:3 <-- means server 3.
+7. Added new function as "Thinking" and "Deep Thinking".
+   Use Deep Thinking first to fetch new servers and connect.
+   or use "Thinking" for switch new servers quickly.
+8. if you can not connect to server, use "force reset" or "clean cache".
+
 V2.1.7:
 release: 8/04/2015
 1. Tor updated.
