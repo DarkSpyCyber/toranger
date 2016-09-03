@@ -1,5 +1,11 @@
 v2 [code name machete].
 
+v2.1.9:
+release: 9/3/2016
+1. Tor updated.
+2. added view logs button, now you can see the tor progress in log window.
+3. fixed bugs of mode 0.
+
 v2.1.8:
 release: 7/26/2016
 1. Tor updated.
