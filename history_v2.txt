@@ -1,5 +1,12 @@
 v2 [code name machete].
 
+v2.1.9-2
+release: 9/11/2016
+1. fixed bug since 2.1.8, we now closing Tor components correctly.
+2. fixed log view bugs. added clear function when log view window activated.
+3. Tor updated, I built Tor for an optimized version.
+4. geoip and geoip6 updated.
+
 v2.1.9:
 release: 9/3/2016
 1. Tor updated.
