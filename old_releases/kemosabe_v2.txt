@@ -1,0 +1,16 @@
+Jun.24.2016:
+Kemosabe v2.0 released:
+1. fixed more and more bugs in 1.1 version.
+2. fixed encrypt mode.
+3. added new options. just reserved. functions in future.
+4. added linux version.
+
+
+announcement:
+
+kemosabe v2 will be release soon.
+it has linux and windows both version.
+with SSL encryption and server client intergrated.
+
+Jun.19.2016
+K.J.Gerty
