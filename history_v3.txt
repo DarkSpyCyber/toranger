@@ -1,0 +1,117 @@
+v3
+v3.0.alpha.nov/01/2019
+1. using tor ver >= 0.4.3.0-dev.
+2. using meek for default connections.
+
+--------------------------------------------
+v2 [code name machete].
+
+v2.1.9-2
+release: 9/11/2016
+1. fixed bug since 2.1.8, we now closing Tor components correctly.
+2. fixed log view bugs. added clear function when log view window activated.
+3. Tor updated, I built Tor for an optimized version.
+4. geoip and geoip6 updated.
+
+v2.1.9:
+release: 9/3/2016
+1. Tor updated.
+2. added view logs button, now you can see the tor progress in log window.
+3. fixed bugs of mode 0.
+
+v2.1.8:
+release: 7/26/2016
+1. Tor updated.
+2. fixed BlueBerry component.
+3. remove Berry component.
+4. added Pitaya component.
+5. geoip and gepip6 updated.
+6. Mode 0 updated. now you can see which server you use, 
+   looks like: Mode 0:3 <-- means server 3.
+7. Added new function as "Thinking" and "Deep Thinking".
+   Use Deep Thinking first to fetch new servers and connect.
+   or use "Thinking" for switch new servers quickly.
+8. if you can not connect to server, use "force reset" or "clean cache".
+
+V2.1.7:
+release: 8/04/2015
+1. Tor updated.
+2. fixed some bugs.
+
+V2.1.6:
+release: 6/20/2015
+1. Tor updated.
+2. Mode 0 fixed. more safety.
+3. geoip and geoip6 updated.
+4. now bundle version included "kemosabe",  for more information see kemosabe folder.
+
+V2.1.5:
+release: 5/6/2015
+1. Tor updated.
+2. added BlueBerry component for Toranger.
+3. fixed Mode 0.
+4. if you can not connect to OR network by Mode 1 or Mode 2, be patient, Stop and retry again.
+
+V2.1.1:
+release: 4/16/2015
+1. Tor updated.
+2. added bridge new server to mode 0, you now have 4 different servers to switch.
+
+v2.1
+release: 4/6/2015
+1. Tor updated.
+2. component grape updated.
+3. component berry updated. 
+4. fixed bug of mode 1 or mode 2 sometimes can't connect to OR network, I raised possibility of connection success.
+5. added "Run Tor as customize" button, its use for after customized your torrc proxies.(the beta version does not have it)
+
+beta 2: 3/31/2015
+1. added proxy to http.
+2. fixed some bugs.
+3. components of Toranger are updated.
+4. Tor updated
+
+beta 1: 3/20/2015
+1. add proxy adding manually function.
+2. more stable and more bug fixed.
+3. tor updated.
+
+v2.1
+test 2: 3/16/2015
+1. added mode 0.
+2. fixed some bugs.
+3. Tor updated.
+
+3/14/2015:
+port to GitHub, google code is no longer avaliable.
+
+v2.1:
+test 1: 3/13/2015:
+1.all codes were rewritten.
+2.mode 1 and mode 2 added.
+3. always working if you keep trying re-run and "force reset".
+
+alpha 2: 6/4/2014
+1. Ranger2 has improved of clear the processes of Tor and related programs when click Start or Finish.
+2. new Tor pluggable transports added.
+3. fixed more bugs of Ranger2.
+4. log on off switch added to Ranger2.
+5. Tor pluggable transports now works.
+6. if you get failed to connect to OR network of AI level 3, please try again.
+
+alpha 1.5: 4/18/2014
+1. some invite problems fixed.
+2. Tor updated with openssl issue fixed "heart bleed".
+3. Ranger2 added some configurations and strategies.
+4. Timeout added.
+5. network searching AI updated.
+6. flashproxy updated.
+7. * obfsproxy and flashproxy still useless in this test version.
+
+alpha 1-2
+1. fixed bug of core/droid/berry functions
+
+alpha 1 built time: 3/21/2014
+1. the organizion strucure of folder was totally different to v1.
+2. logically, V2 never get fail to connect to Tor network, if you get fail, stop and start again.
+   this version will searching a suitable network automatically to go before Tor runs.

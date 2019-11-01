@@ -7,6 +7,8 @@ this tor bundle can helps you to circumvent the censorship of gov.
 
 ok, fine, do not use it for illegal purposes. :)
 
+v3.0 alpha Nov/01/2019
+
 
 [https://github.com/DarkSpyCyber/toranger/blob/master/old_releases/README.md old release readme]
 
