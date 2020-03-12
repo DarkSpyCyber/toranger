@@ -1,4 +1,12 @@
 v3
+
+v3.0 beta 1 03/12/2020
+1. updated a new GUI executable.
+2. added 23 new bridges to use.
+
+v3.0 alpha 12/25/2019
+1. update tor version
+
 v3.0.alpha.nov/01/2019
 1. using tor ver >= 0.4.3.0-dev.
 2. using meek for default connections.
