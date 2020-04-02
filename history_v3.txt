@@ -1,4 +1,10 @@
 v3
+v3.0 beta 2 04/02/2020
+1. added "use your proxy" options. now you can use your proxy.
+2. the server list default to meek bridge.
+3. fixed bug of server list function.
+4. tor updated to 04/02/2020 newest version (0.4.4.0).
+5. added 20 https bridges to this version.
 
 v3.0 beta 1 03/12/2020
 1. updated a new GUI executable.
