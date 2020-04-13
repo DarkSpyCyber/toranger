@@ -1,4 +1,17 @@
 v3
+
+v3.0 beta 3 04/13/2020
+1. fixed bug of server list mess.
+2. fixed bug of "please select bridge" warning after click "switch to next/random bridge".
+3. now server list will show current bridge when you click "switch to next/random bridge".
+4. added numberic progress beside the progress bar.
+5. tor updated to newest version.
+6. added Toranger project in github's link.
+7. replaced all 50 new bridges.
+8. for update to beta 3, I *suggest* you to delete previous version of Toranger3, 
+   and extract this one to the empty folder.
+9. please send issue or advices to my team: viviansbody@protonmail.com
+
 v3.0 beta 2 04/02/2020
 1. added "use your proxy" options. now you can use your proxy.
 2. the server list default to meek bridge.
