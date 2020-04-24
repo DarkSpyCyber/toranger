@@ -1,5 +1,9 @@
 v3
 
+v3.0.0
+1. fixed bug of clicked "use your proxy" then server list messed up.
+
+
 v3.0 beta 3 04/13/2020
 1. fixed bug of server list mess.
 2. fixed bug of "please select bridge" warning after click "switch to next/random bridge".
