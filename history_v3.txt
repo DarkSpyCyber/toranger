@@ -1,8 +1,13 @@
 v3
 
-v3.0.0
+v3.0.0 05/08/2020
 1. fixed bug of clicked "use your proxy" then server list messed up.
-
+2. update tor to newest version.
+3. now you can use "check update" function (run update.exe).
+   *"check update" function will update new bridges / new tor / other components (but not main Toranger3.exe). *
+   *if anti-virus software report that update.exe has "threat" please add update.exe to trust list.*
+   *if Windows user account control (UAC) needs some privilege for update.exe, please click yes to pass UAC check.*
+4. update all bridges.
 
 v3.0 beta 3 04/13/2020
 1. fixed bug of server list mess.
