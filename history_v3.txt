@@ -1,5 +1,13 @@
 v3
 
+v3.0.1 05/09/2020
+1. fixed bug of "please select bridge" warning.(thanks allinfa.com)
+2. updated update.exe, you can use Toranger3 and update.exe under Windows XP.
+3. some chinese users report that "update.exe" has "suspended/endless loop" issue in Toranger.
+    the update program depends on network speed and download size of "update.zip", 
+    so be patient after update.exe runs until success or failure information pops up from Toranger.
+4. Toranger3 and update.exe can be run under Windows XP 
+
 v3.0.0 05/08/2020
 1. fixed bug of clicked "use your proxy" then server list messed up.
 2. update tor to newest version.
