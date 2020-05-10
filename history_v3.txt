@@ -6,8 +6,8 @@ v3.0.1 05/09/2020
 3. some chinese users report that "update.exe" has "suspended/endless loop" issue in Toranger.
     the update program depends on network speed and download size of "update.zip", 
     so be patient after update.exe runs until success or failure information pops up from Toranger.
-4. Toranger3, Tor and update.exe can be run under Windows XP. 
-    and you must use 64bit Windows vista or above version to run "Tor with meek/obfs/snow" components.
+4. under Windows XP: Toranger3, Tor, update.exe
+    under Windows Vista 64bit or above version of 64bit Windows: Toranger3, Tor, update.exe, meek/obfs/snow. 
 
 v3.0.0 05/08/2020
 1. fixed bug of clicked "use your proxy" then server list messed up.
