@@ -7,6 +7,10 @@ this tor bundle can helps you to circumvent the censorship of gov.
 
 ok, fine, do not use it for illegal purposes. :)
 
+v3.0.1 update - 05/03/2020 released (run "Check Update" in Toranger3.exe)<br>
+1. tor.exe updated.<br>
+2. bridges updated.<br>
+<br>
 v3.0.1      May/09/2020, **fixed some bugs**<br>
 v3.0.0      May/08/2020, **update function was ok**<br>
 v3.0 beta 3 Apr/13/2020, **before update, please see history_v3.txt first.**<br>
