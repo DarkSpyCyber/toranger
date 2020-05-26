@@ -1,5 +1,11 @@
 v3
 
+v3.1.0 05/26/2020
+1. updated tor to newest version.
+2. updated all bridges.
+3. added tor exclude nodes and exclude exit nodes configure function.
+4. changed tor running mode.
+
 v3.0.1 05/09/2020
 1. fixed bug of "please select bridge" warning.(thanks allinfa.com)
 2. updated update.exe, you can use Toranger3 and update.exe under Windows XP.
