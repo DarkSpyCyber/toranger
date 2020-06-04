@@ -1,5 +1,23 @@
 v3
 
+v3.1.5 06/04/2020
+1. update.exe and Toranger update function updated.
+   now you can see "have update version" or "no update available" when you using "Check Update".
+2. now HTTP proxy has been available, use 8118 port of HTTP proxy if Tor has success
+   connected.
+   we will see the message:
+   ...SUCCESS...
+   ...USE SOCKS5 PROXY 9050...
+
+   ...HTTP DONE...
+   ...USE HTTP PROXY 8118...
+
+3. fixed bug of select bridge server list.
+4. now click Stop button then message window will be clear.
+5. tor updated to newest version.
+6. updated all bridges.
+7. changed UI position.
+
 v3.1.0 05/26/2020
 1. updated tor to newest version.
 2. updated all bridges.
