@@ -1,4 +1,18 @@
 v3
+v3.1.6 06/29/2020
+1. updated tor to newest version.
+2. updated all bridges.
+3. updated update.exe
+4. added "Run as auto-switch" button. this function will let you sitting on the chair,
+   drinking the coffee and to wait the Tor connect to the OR network. 
+   it will automatically switch the random bridges if the bridge connects fail for 
+   3 more times until connect success.
+5. Download tips:
+   TorangerX.X.X-upgrade.7z is an upgrade pack from v3.1.0 to this version. if you 
+   already have v3.1.0 or newer version, download this to upgrade.
+   
+   TorangerX.X.X.7z is an fully version of Toranger, it will overwrite the all
+   configuration from v3.1.0 to this version.
 
 v3.1.5 06/04/2020
 1. update.exe and Toranger update function updated.
