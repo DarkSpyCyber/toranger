@@ -1,4 +1,13 @@
 v3
+
+v3.1.7
+1. fixed some bugs in "Run as auto-switch" function.
+2. added new check connection fail functions.
+3. fixed some error text.
+4. fixed crash problems.
+5. updated tor to newest version.
+6. updated all bridges.
+
 v3.1.6 06/29/2020
 1. updated tor to newest version.
 2. updated all bridges.
