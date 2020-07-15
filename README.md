@@ -11,7 +11,7 @@ ok, fine, do not use it for illegal purposes. :)
 Download tips - v3.1.7:<br>
 TorangerX.X.X-upgrade.7z is an upgrade pack from v3.1.0 to this version. if you already have v3.1.0 or newer version, download this to upgrade.<br>
 TorangerX.X.X.7z is an fully version of Toranger, it will overwrite the all configuration from v3.1.0 to this version.<br>
-v3.1.6      Jul/15/2020<br>
+v3.1.7      Jul/15/2020<br>
 v3.1.6      Jun/29/2020<br>
 v3.1.5      Jun/04/2020<br>
 v3.1.0      May/26/2020<br>
