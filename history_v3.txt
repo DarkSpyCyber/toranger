@@ -1,6 +1,17 @@
 v3
 
-v3.1.7
+v3.1.8 07/30/2020
+1. fixed: if choose bridges randomly, will skip "obfs, snow, meek" bridges, if you need
+   to use obfs, snow or meek, select one and use "run" button.
+2. added "Clear Cache" button, if you think the connection speed getting slower or can't
+   connect for long time, use this button.
+3. fixed: after Tor connected, we still surveillance the connection, if broken or error
+   found, auto connect again.
+4. fixed: a core bug fixed. running speed gets boost up.
+5. tor updated.
+6. all bridges updated.
+ 
+v3.1.7 07/15/2020
 1. fixed some bugs in "Run as auto-switch" function.
 2. added new check connection fail functions.
 3. fixed some error text.
