@@ -1,5 +1,23 @@
 v3
 
+v3.2.0
+1. added "Always Watch Connection" function, if check that box, Toranger will continue    surveillance Tor connection:
+   it will makes Tor re-connect to network if Toranger found Tor reports some errors AFTER
+   Tor connected successfully.
+   (Tor reports some errors doesn't means Tor can't work but Toranger can't assuming that.)
+   if don't check that box Toranger will quit the surveillance Tor connection after 
+   Tor connected. so I added new function to Toranger: "Heart Beat".
+2. added proxy save function, default is "save". if "Use Your Proxy" and "Run", it 
+   will save the proxy what you input.
+3. added Tor to the official stable version.
+4. all bridges updated.
+5. added "Heart Beat" to core function, it will activated after Tor connected to
+   network, 
+   to check Tor network is alive and works, if the message was:
+   "Tor Network OK..." means Tor works ok
+   "Send Request Error ..." means something error or network speed low, wait for retry.
+   "Tor Network Has Broken..." means Tor network died or Tor closed, you need restart Tor. 
+
 v3.1.8 07/30/2020
 1. fixed: if choose bridges randomly, will skip "obfs, snow, meek" bridges, if you need
    to use obfs, snow or meek, select one and use "run" button.
