@@ -1,4 +1,13 @@
 v3
+v3.3.0
+1. Tor to stable release.
+2. added function: Run good bridges. this function will collect the bridges which
+   successful connect to Tor network before. then if the button turns useful, 
+   you can use this function to connect tor network.
+3. fixed some bugs.
+4. all bridges updated.
+5. now we have telegeam group: https://t.me/toranger.
+6. you need to upgrade v3.3.0 with full package.
 
 v3.2.0
 1. added "Always Watch Connection" function, if check that box, Toranger will continue    surveillance Tor connection:
