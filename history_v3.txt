@@ -1,4 +1,24 @@
 v3
+v3.4.0
+1. fixed bug when "Run Good Bridges" stops not set the status back.
+2. added heart-beat text window on top of the message window, now the heart beat 
+   message will not bother you.(a lots of users feel the messages annoying)
+3. fixed more bugs about button click status.
+4. fixed bug of write good bridges.
+5. now we can run all saved good bridges if current good bridge broken.
+   (in 3.3.0 just run first saved one).
+6. clear message window before Run Good Bridges.
+7. "always watch connection" default set to checked.
+8. added Http Proxy Port change function, you can now change the 8118 port
+   to what you like.
+9. update program optimized.
+10. all bridges updated.
+11. we released two versions of Toranger 3.4.0 that includes Tor-stabled and Tor-unstabled.
+     Tor-stabled was a stable Tor same as v3.3.0 v3.2.0, a very stable Tor version.
+     Tor-unstabled was a unstable Tor v0.4.5.0 development version, it's new and contains a lots of 
+     new functions and better encryptions than stable version but contains more bugs than stable version. 
+12. v3.4.0 is a stable version than v3.3.0 , update immediately.
+
 v3.3.0
 1. Tor to stable release.
 2. added function: Run good bridges. this function will collect the bridges which
