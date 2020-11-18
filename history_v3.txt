@@ -1,4 +1,11 @@
 v3
+v3.4.1
+1. now you can save Http Proxy Port, v3.4.0 can't save, each time need to change again.
+2. fixed other bugs.
+3. update program updated.
+4. tor bridges updated.
+5. tor unstable core updated.
+
 v3.4.0
 1. fixed bug when "Run Good Bridges" stops not set the status back.
 2. added heart-beat text window on top of the message window, now the heart beat 
