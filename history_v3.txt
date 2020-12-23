@@ -1,4 +1,12 @@
 v3
+
+v3.4.2
+1. now you can set proxy to browser just one click "set browser proxy"
+2. fixed bug of exit tor running.
+3. all bridges updated.
+4. tor now we use stable version.
+5. update program updated.
+
 v3.4.1
 1. now you can save Http Proxy Port, v3.4.0 can't save, each time need to change again.
 2. fixed other bugs.
