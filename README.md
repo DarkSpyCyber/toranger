@@ -8,6 +8,7 @@ this tor bundle can helps you to circumvent the censorship of gov.
 ok, fine, do not use it for illegal purposes. :)
 
 <br>
+v3.4.2      Dec/23/2020<br>
 v3.4.1      Nov/18/2020<br>
 v3.4.0      Oct/23/2020<br>
 v3.3.0      Sep/28/2020<br>
