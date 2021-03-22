@@ -1,5 +1,15 @@
 v3
 
+v3.5.0 [V2ray and Trojan Support] 
+1. fixed bug of select bridges server will crash.
+2. all bridges updated.
+3. now we added Trojan and V2ray(VMess/VLess) support.
+4. if you can not fetch subscribes from your country please go connect Tor network first
+   and select "Fetch Via Toranger" then you can fetch your Trojan/V2ray subscribes.
+5. to connect v2ray or trojan, click "go" button in v2ray window and do not close it.
+6. "stop" to stop v2ray and trojan.
+7. added process clear function when initiate the Toranger.
+
 v3.4.3
 1. fixed bug of tor connection message doesnt show sometimes.
 2. unset browser proxy after you close Toranger.
