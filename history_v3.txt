@@ -1,5 +1,17 @@
 v3
 
+v3.5.1
+1. fixed bug of Tor network connection check.
+2. added some detail text on V2ray Window.
+3. fixed bug of crash issue when random bridge and auto-switch bridges.
+4. geoip and geoipv6 database updated.
+5. Tor updated to newest version.(better than official version, embedded 3 stream compress functions.)
+6. obfs and meek bridges configuration updated.
+7. fixed bug if changes V2ray/Trojan proxy then V2ray window may not on top of main window.
+8. all bridges updated.
+9. note: update.exe and ltm.exe are safe programs, if anti-virus has virus report please add these programs
+   to whitelists.
+
 v3.5.0 [V2ray and Trojan Support] 
 1. fixed bug of select bridges server will crash.
 2. all bridges updated.
