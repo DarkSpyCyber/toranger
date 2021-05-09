@@ -1,5 +1,13 @@
 v3
 
+v3.5.2
+1. fixed bug that grab the v2ray list.
+2. "run good bridges" can now auto delete the bridge when it's useless.
+3. tor updated to newest version.
+4. all bridges updated.
+5. note: the tor.exe minimum system requirement is above windows XP. if you want use XP to run
+   toranger, use toranger 3.5.0 
+
 v3.5.1
 1. fixed bug of Tor network connection check.
 2. added some detail text on V2ray Window.
