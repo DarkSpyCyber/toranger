@@ -1,5 +1,13 @@
 v3
 
+v3.5.3
+1. update tor to newest version.
+   (this version may have some chance to show "Captchar" page lower frequency)
+2. update all bridges.
+3. use new Tor internal http proxy, more faster.
+4. updated geoip and geoipv6 databases.
+5. fixed bug of Tor network watch function.
+
 v3.5.2
 1. fixed bug that grab the v2ray list.
 2. "run good bridges" can now auto delete the bridge when it's useless.
