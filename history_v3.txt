@@ -1,5 +1,13 @@
 v3
 
+v3.5.4
+1. tor updated to newest version.
+2. all bridges updated.
+3, optimized Toranger speed.
+4. updated.exe updated.
+5. now you have Toranger-3.5.4-xp version to choose. in xp version, we can run
+   Toranger in Windows XP with old Tor but "more speed up" than newest one.
+
 v3.5.3
 1. update tor to newest version.
    (this version may have some chance to show "Captchar" page lower frequency)
