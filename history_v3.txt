@@ -1,5 +1,21 @@
 v3
 
+v3.6.0
+1. fixed meek/obfs/snow 's plugins config file and updated these plugin files.
+   (XP version still use old plugin file).
+   thanks to an anonymoused friend from telegram.
+2. updated tor to newest version.
+3. updated all bridges.
+4. geoip and gepipv6 updated.
+5. mixed tor-normal and tor-xp mode. you can switch it between two modes.
+6. fixed update.exe bugs. now old update.exe can't use anymore.
+7. fixed update function in Toranger bug.
+8. added Base64 input and parse to v2ray proxy functions in v2ray window.
+   you can input base64 encoded text into "Fetch Results" Window and Analyze it.
+   the result will appear in Proxies list.
+9. modified Toranger3.exe to run in administrator mode. please run in administrator mode.
+10. fixed ltm.exe v2ray function.
+
 v3.5.4
 1. tor updated to newest version.
 2. all bridges updated.
