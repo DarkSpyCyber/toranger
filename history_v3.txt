@@ -1,4 +1,10 @@
 v3
+v3.6.1
+1. optimized toranger speed. especially close tor function.
+2. fixed update.exe
+3. fixed ltm.exe
+4. tor upadted.
+5. tor bridges updated.
 
 v3.6.0
 1. fixed meek/obfs/snow 's plugins config file and updated these plugin files.
