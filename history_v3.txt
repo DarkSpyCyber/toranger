@@ -1,7 +1,7 @@
 v3
 v3.6.2
 1. fixed the bug when Toranger run tor program. it will may cause 
-   program crash(depends on torrc config file). please update to 3.6.2
+   program crash(depends on torrc config file). please upgrade to 3.6.2
 2. tor updated.
 3. update.exe updated.
 4. bridges all updated.
