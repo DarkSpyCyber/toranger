@@ -1,4 +1,11 @@
 v3
+v3.6.3
+1. fixed bug of watch of tor connection.
+2. tor updated.
+3. bridges updated.
+4. update updated.
+5. more stable.
+
 v3.6.2
 1. fixed the bug when Toranger run tor program. it will may cause 
    program crash(depends on torrc config file). please upgrade to 3.6.2
