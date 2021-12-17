@@ -1,4 +1,13 @@
 v3
+
+v3.6.5
+1. now Toranger can handle more than hundred of bridges.
+2. update updated.
+3. all bridges updated.
+4. the XP version Tor was updated to 0.4.3.6.
+5. Tor updated.
+6. we included more than 30 bridges.
+
 v3.6.3
 1. fixed bug of watch of tor connection.
 2. tor updated.
