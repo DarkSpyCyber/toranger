@@ -15,7 +15,8 @@ Windows requirements:<br>
 1. x86-64 windows 7 or above.<br>
 2. 20M temporary disk space.<br>
 <br>
-Linux x64 Version download [package1](https://github.com/DarkSpyCyber/toranger/blob/master/Toranger%2B/toranger%2B.tar.bz2.aa)[package2](https://github.com/DarkSpyCyber/toranger/blob/master/Toranger%2B/toranger%2B.tar.bz2.ab)
+Linux x64 Version download, [package1](https://github.com/DarkSpyCyber/toranger/blob/master/Toranger%2B/toranger%2B.tar.bz2.aa)
+[package2](https://github.com/DarkSpyCyber/toranger/blob/master/Toranger%2B/toranger%2B.tar.bz2.ab)
 <br>
 Linux requirements:<br>
 1. 64bit Linux. test on ubuntu 20.x <br>
