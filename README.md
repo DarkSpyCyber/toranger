@@ -12,17 +12,16 @@ ok, fine, do not use it for illegal purposes. :)
 [Windows x64 Version download](https://github.com/DarkSpyCyber/toranger/blob/master/Toranger%2B/toranger%2B.7z)
 <br>
 Windows requirements:<br>
-1. x86-64 windows 7 or above.<br>
-2. 20M temporary disk space.<br>
+1.x86-64 windows 7 or above.<br>
+2.20M temporary disk space.<br>
 <br>
-Linux x64 Version download, [package1](https://github.com/DarkSpyCyber/toranger/blob/master/Toranger%2B/toranger%2B.tar.bz2.aa)
-[package2](https://github.com/DarkSpyCyber/toranger/blob/master/Toranger%2B/toranger%2B.tar.bz2.ab)
+Linux x64 Version download. [package1](https://github.com/DarkSpyCyber/toranger/blob/master/Toranger%2B/toranger%2B.tar.bz2.aa). [package2](https://github.com/DarkSpyCyber/toranger/blob/master/Toranger%2B/toranger%2B.tar.bz2.ab)
 <br>
 Linux requirements:<br>
-1. 64bit Linux. test on ubuntu 20.x <br>
-2. glibc >= 2.29.<br>
-3. run toranger+.sh.<br>
-4. after download .bz2 split packages, using command:<br>
+1.64bit Linux. test on ubuntu 20.x <br>
+2.glibc >= 2.29.<br>
+3.run toranger+.sh.<br>
+4.after download .bz2 split packages, using command:<br>
 ###### "cat toranger+*.tar.bz2.?? > toranger.tar.bz2"
 
 and then unpack the tar.bz2 package.
