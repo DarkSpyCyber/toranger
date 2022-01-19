@@ -7,8 +7,8 @@ this tor bundle can helps you to circumvent the censorship of gov.
 
 ok, fine, do not use it for illegal purposes. :)
 
-###Toranger+ Alpha Test for Win/Linux:
-###v1.0.alpha Jan/19/2022
+### Toranger+ Alpha Test for Win/Linux:
+### v1.0.alpha Jan/19/2022
 [Windows x64 Version download](https://github.com/DarkSpyCyber/toranger/blob/master/Toranger%2B/toranger%2B.7z)
 <br>
 Windows requirements:<br>
@@ -22,17 +22,18 @@ Linux requirements:<br>
 2. glibc >= 2.29.<br>
 3. run toranger+.sh.<br>
 4. after download .bz2 split packages, using command:<br>
-######"cat toranger+*.tar.bz2.?? > toranger.tar.bz2"
+###### "cat toranger+*.tar.bz2.?? > toranger.tar.bz2"
+
 and then unpack the tar.bz2 package.
-##
-###report bugs or issues to [github](https://github.com/DarkSpyCyber/toranger/issues) or [telegram](https://t.me/toranger)
+
+### report bugs or issues to [github](https://github.com/DarkSpyCyber/toranger/issues) or [telegram](https://t.me/toranger)
 -----
-##Toranger
-###v3.6.5      Dec/17/2021<br>
-####v3.6.3      Nov/26/2021<br>
-####v3.6.2      Oct/09/2021<br>
-####v3.6.1      Sep/27/2021<br>
-####v3.6.0      Aug/15/2021<br>
+## Toranger
+### v3.6.5      Dec/17/2021<br>
+#### v3.6.3      Nov/26/2021<br>
+#### v3.6.2      Oct/09/2021<br>
+#### v3.6.1      Sep/27/2021<br>
+#### v3.6.0      Aug/15/2021<br>
 
 [v3 release history](https://github.com/DarkSpyCyber/toranger/blob/master/v3/README.md)
 
