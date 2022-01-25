@@ -8,14 +8,14 @@ this tor bundle can helps you to circumvent the censorship of gov.
 ok, fine, do not use it for illegal purposes. :)
 
 ### Toranger+ Alpha Test for Win/Linux:
-### v1.0.alpha Jan/19/2022
+### v1.0.alpha Jan/25/2022
 [Windows x64 Version download](https://github.com/DarkSpyCyber/toranger/blob/master/Toranger%2B/toranger%2B.7z)
 <br>
 Windows requirements:<br>
 1.x86-64 windows 7 or above.<br>
 2.20M temporary disk space.<br>
 <br>
-Linux x64 Version download. [package1](https://github.com/DarkSpyCyber/toranger/blob/master/Toranger%2B/toranger%2B.tar.bz2.aa). [package2](https://github.com/DarkSpyCyber/toranger/blob/master/Toranger%2B/toranger%2B.tar.bz2.ab)
+Linux x64 Version download. [package1](https://github.com/DarkSpyCyber/toranger/blob/master/Toranger%2B/toranger%2B.tar.bz2.aa). [package2](https://github.com/DarkSpyCyber/toranger/blob/master/Toranger%2B/toranger%2B.tar.bz2.ab). [package3](https://github.com/DarkSpyCyber/toranger/blob/master/Toranger%2B/toranger%2B.tar.bz2.ac). [package4](https://github.com/DarkSpyCyber/toranger/blob/master/Toranger%2B/toranger%2B.tar.bz2.ad). [package5](https://github.com/DarkSpyCyber/toranger/blob/master/Toranger%2B/toranger%2B.tar.bz2.ae)
 <br>
 Linux requirements:<br>
 1.64bit Linux. test on ubuntu 20.x <br>
