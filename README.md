@@ -29,7 +29,8 @@ then run toranger+.sh
 ### report bugs or issues to [github](https://github.com/DarkSpyCyber/toranger/issues) or [telegram](https://t.me/toranger)
 -----
 ## Toranger
-### v3.6.5      Dec/17/2021<br>
+### v3.6.6     Jan/29/2022<br>
+#### v3.6.5      Dec/17/2021<br>
 #### v3.6.3      Nov/26/2021<br>
 #### v3.6.2      Oct/09/2021<br>
 #### v3.6.1      Sep/27/2021<br>

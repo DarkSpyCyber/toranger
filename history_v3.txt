@@ -1,4 +1,10 @@
 v3
+v3.6.6
+1. fixed some UI positions.
+2. fix toranger speed.
+3. tor updated.
+4. update updated.
+5. all bridges updated.(expanded to 106 bridges)
 
 v3.6.5
 1. now Toranger can handle more than hundred of bridges.
