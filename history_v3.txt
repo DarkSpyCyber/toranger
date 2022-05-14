@@ -1,4 +1,12 @@
 v3
+v3.7.0
+1. added clash functions. now support clash.
+2. tor plugin problems fixed.
+3. tor has updated to newest version.
+4. updated all bridges.
+5. updated update.exe.
+6. geoip updated.
+
 v3.6.6
 1. fixed some UI positions.
 2. fix toranger speed.
