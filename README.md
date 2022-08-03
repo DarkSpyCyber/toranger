@@ -8,12 +8,12 @@ this tor bundle can helps you to circumvent the censorship of gov.
 ok, fine, do not use it for illegal purposes. :)
 
 ### Toranger+ Alpha Test for Win/Linux:
-### v1.0.alpha Jan/29/2022
+### v1.0.alpha-20220802 Aug/02/2022
 [Windows x64 Version download](https://github.com/DarkSpyCyber/toranger/blob/master/Toranger%2B/toranger%2B.7z)
 <br>
 Windows requirements:<br>
 1.x86-64 windows 7 or above.<br>
-2.20M temporary disk space.<br>
+2.40M temporary disk space.<br>
 <br>
 Linux x64 Version download. [package](https://github.com/DarkSpyCyber/toranger/blob/master/Toranger%2B/toranger%2B-linux.7z).
 <br>
@@ -29,7 +29,7 @@ then run toranger+.sh
 ### report bugs or issues to [github](https://github.com/DarkSpyCyber/toranger/issues) or [telegram](https://t.me/toranger)
 -----
 ## Toranger
-### v3.7.0      May/14/2022<br>
+#### v3.7.0      May/14/2022<br>
 #### v3.6.6      Jan/29/2022<br>
 #### v3.6.5      Dec/17/2021<br>
 #### v3.6.3      Nov/26/2021<br>
