@@ -1,4 +1,11 @@
 v3
+v3.7.2
+1. fix some bugs.
+2. tor updated to newest version.
+3. update.exe and ltm.exe updated to 64bit. now it works faster
+   and might not be false report as a "virus".
+4. tor bridges all updated.
+
 v3.7.1
 1. clash updated.
 2. fixed clash function window.
