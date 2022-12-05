@@ -1,4 +1,12 @@
 v3
+v3.7.3
+1. fixed some bugs.
+2. fixed update.exe problems,  
+   as soon as possible to update to 3.7.3,  
+   the old version <= 3.7.2 can not update anymore.
+3. updated all bridges.
+4. updated geoip databases.
+
 v3.7.2
 1. fix some bugs.
 2. tor updated to newest version.
