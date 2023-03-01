@@ -1,4 +1,10 @@
 v3
+v3.7.5
+1. fixed ltm and update.
+2. boost v2ray and clash speed.
+3. tor updated.
+4. all bridges updated.
+
 v3.7.4
 1. fixed bugs of close program.
 2. fixed bugs of terminate tor and other components.
