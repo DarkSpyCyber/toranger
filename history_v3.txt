@@ -1,4 +1,13 @@
 v3
+v3.8.0
+1. program fully optimized with new compiler for boost up.
+2. changed the core algorithm that more easy to find avaliable servers.
+3. take off "Tor for XP" and "Tor for >= Windows 7" switch button.
+4. update clash.exe.
+5. tor updated. 
+6. all bridges updated.
+7. update.exe updated.
+
 v3.7.5
 1. fixed ltm and update.
 2. boost v2ray and clash speed.
