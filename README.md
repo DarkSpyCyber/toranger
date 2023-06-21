@@ -7,34 +7,44 @@ this tor bundle can helps you to circumvent the censorship of gov.
 
 ok, fine, do not use it for illegal purposes. :)
 
+### Support/Donate me on TRC20-USDT:
+
+### Address: TM4JUbhn5sdtZHm58gmuTLVJUbhd3LkgPm
+
+![TM4JUbhn5sdtZHm58gmuTLVJUbhd3LkgPm](TM4JUbhn5sdtZHm58gmuTLVJUbhd3LkgPm.png 'support me')
+
+### No matter how much you donate, it's okay. Thank You !
+-------
 ### Toranger+ Alpha Test for Win/Linux:
-### the newest WIP verson of Toranger+ would be download at telegram: https://t.me/toranger
+#### the newest WIP verson of Toranger+ would be download at telegram: https://t.me/toranger
 ### in Telegram group version:
 #### Work In Progress Version:
 
-1. Ruby interpreter packed as standalone.<br>
-2. plugin-mode developing...
+1. plugin-mode developing...
 <br>
 
-### v1.0.alpha-20220802 Aug/02/2022
-[Windows x64 Version download](https://github.com/DarkSpyCyber/toranger/blob/master/Toranger%2B/toranger%2B.7z)
+## v1.0.alpha-20230621 Jun/21/2023
+
+Linux x64 Version download. [package](https://github.com/DarkSpyCyber/toranger/blob/master/Toranger%2B/toranger%2B.tar.xz).
+<br>
+Linux requirements:<br>
+1.x86-64 Linux. tested on ubuntu / mint >= 18.x / manjaro 20.x / fedora >= 35 <br>
+2.glibc >= 2.20.<br>
+3.run toranger+.sh.<br>
+4.after download package, first using command:<br>
+###### "sudo reg-path-2.sh" to register the dynamic lib path
+
+then run toranger+.sh
+
+[Windows x64 Version download] **OLDER VERSION THAN LINUX**
+[package](https://github.com/DarkSpyCyber/toranger/blob/master/Toranger%2B/toranger%2B.7z)
 <br>
 Windows requirements:<br>
 1.x86-64 windows 7 or above.<br>
 2.40M temporary disk space.<br>
-<br>
-Linux x64 Version download. [package](https://github.com/DarkSpyCyber/toranger/blob/master/Toranger%2B/toranger%2B-linux.7z).
-<br>
-Linux requirements:<br>
-1.64bit Linux. test on ubuntu 20.x <br>
-2.glibc >= 2.29.<br>
-3.run toranger+.sh.<br>
-4.after download package, using command:<br>
-###### "sudo reg-path.sh" to register the dynamic lib path
 
-then run toranger+.sh
 
-### report bugs or issues to [github](https://github.com/DarkSpyCyber/toranger/issues) or [telegram](https://t.me/toranger)
+#### report bugs or issues to [github](https://github.com/DarkSpyCyber/toranger/issues) or [telegram](https://t.me/toranger)
 -----
 ## Toranger
 ### v3.8.0      May/13/2023<br>
