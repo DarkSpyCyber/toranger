@@ -1,3 +1,8 @@
+06/21/2023
+1. fixed ruby interpreter and tor core program into AppImage package
+2. fixed more than 70% code for support AppImage ruby and dependences in linux
+3. tested more and more linux distros, thanks Sw in telegram
+
 08/02/2022
 1. added proxy support
 2. tor updated
