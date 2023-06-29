@@ -23,7 +23,7 @@ ok, fine, do not use it for illegal purposes. :)
 1. plugin-mode developing...
 <br>
 
-## v1.0.alpha-20230621 Jun/21/2023
+## v1.0.alpha-20230621 Jun/29/2023
 
 Linux x64 Version download. [package](https://github.com/DarkSpyCyber/toranger/blob/master/Toranger%2B/toranger%2B.tar.xz).
 <br>
