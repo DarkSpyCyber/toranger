@@ -7,7 +7,7 @@ this tor bundle can helps you to circumvent the censorship of gov.
 
 ok, fine, do not use it for illegal purposes. :)
 
-### Support/Donate me on TRC20-USDT:
+### Support/Donate me on TRX-USDT:
 
 ### Address: TM4JUbhn5sdtZHm58gmuTLVJUbhd3LkgPm
 
