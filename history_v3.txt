@@ -1,4 +1,11 @@
 v3
+v3.8.5
+1. fixed more memory leak issue.
+2. tor and update.exe updated.
+3. all bridges updated.
+4. added donate information window.
+5. added lyrebird replace for obfs4 plugins
+
 v3.8.0
 1. program fully optimized with new compiler for boost up.
 2. changed the core algorithm that more easy to find avaliable servers.
