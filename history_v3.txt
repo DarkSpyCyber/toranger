@@ -5,6 +5,7 @@ v3.8.5
 3. all bridges updated.
 4. added donate information window.
 5. added lyrebird replace for obfs4 plugins
+6. added update version information at title bar
 
 v3.8.0
 1. program fully optimized with new compiler for boost up.
