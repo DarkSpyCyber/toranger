@@ -1,4 +1,9 @@
 v3
+v3.8.6
+1. bridges updated.
+2. added "No Http Bridges" functions. now we can search useful bridges more quickly.
+3. fixed some memory leak.
+
 v3.8.5
 1. fixed more memory leak issue.
 2. tor and update.exe updated.

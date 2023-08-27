@@ -47,6 +47,7 @@ Windows requirements:<br>
 #### report bugs or issues to [github](https://github.com/DarkSpyCyber/toranger/issues) or [telegram](https://t.me/toranger)
 -----
 ## Toranger
+#### v3.8.6      Aug/27/2023<br>
 #### v3.8.5      Jul/15/2023<br>
 #### v3.8.0      May/13/2023<br>
 #### v3.7.5      Mar/01/2023<br>
