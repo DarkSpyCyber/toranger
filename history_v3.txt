@@ -1,4 +1,10 @@
 v3
+v3.8.7
+1. bridge updated.
+2. clash window fixed to better useable.
+3. tor updated.
+4. geoip and geoipv6 updated.
+
 v3.8.6
 1. bridges updated.
 2. added "No Http Bridges" functions. now we can search useful bridges more quickly.
